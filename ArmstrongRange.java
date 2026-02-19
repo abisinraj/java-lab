@@ -1,3 +1,6 @@
+
+//program4
+//write a java program to find armstrong numbers in a given range
 import java.util.Scanner;
 
 public class ArmstrongRange {
