@@ -1,3 +1,6 @@
+
+//program7
+//write a java program to find the trace and transpose of a matrix
 import java.util.Scanner;
 
 public class MatrixTraceTranspose {
