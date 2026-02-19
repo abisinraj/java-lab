@@ -15,7 +15,7 @@ public class Triangle {
         b = sc.nextInt();
         c = sc.nextInt();
 
-        if ((a + b > c) && (b + c > a) && (c + a > b)) {
+        if ((c < a + b) && (b < a + c) && (a < b + c)) {
             if ((a == b) && (b == c)) {
                 System.out.println("Equilateral triangle");
             } else if ((a == b) || (b == c) || (c == a)) {
