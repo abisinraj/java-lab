@@ -1,5 +1,5 @@
 
-//program4
+//program5
 //write a java program to check whether the given triangle is equilateral, isosceles or scalene
 import java.util.Scanner;
 
