@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int n, a = 0, b = 1;
+        int n, a = 0, b = 1, c = 0;
 
         System.out.print("Enter the limit: ");
         n = scan.nextInt();
@@ -12,9 +12,9 @@ public class Fibonacci {
 
         while (a < n) {
             System.out.print(a + ", ");
-            int next = a + b;
+            c = a + b;
             a = b;
-            b = next;
+            b = c;
         }
 
         System.out.println();
