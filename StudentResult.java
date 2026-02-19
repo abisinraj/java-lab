@@ -21,11 +21,11 @@ class Mark extends Student {
     double avg;
 
     void readMarks(Scanner sc) {
-        System.out.println("Enter 3 subject marks:");
-        for (int i = 0; i < 3; i++) {
+        System.out.println("Enter 5 subject marks:");
+        for (int i = 0; i < 5; i++) {
             total += sc.nextInt();
         }
-        avg = total / 3.0;
+        avg = total / 5.0;
     }
 
     void show() {
