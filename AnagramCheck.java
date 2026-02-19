@@ -1,3 +1,6 @@
+
+//program9
+//write a java program to check whether the given strings are anagram or not
 import java.util.Scanner;
 import java.util.Arrays;
 
