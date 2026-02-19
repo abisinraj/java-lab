@@ -7,10 +7,6 @@ public class CountObjects {
         count = count + 1;
     }
 
-    public CountObjects(int i) {
-        count = count + i;
-    }
-
     public static void main(String[] args) {
         CountObjects obj1 = new CountObjects();
         CountObjects obj2 = new CountObjects();
