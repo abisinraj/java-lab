@@ -1,3 +1,6 @@
+
+//program1
+//write a java program to find the distance between two points
 import java.util.Scanner;
 
 public class DistanceCalculator {
