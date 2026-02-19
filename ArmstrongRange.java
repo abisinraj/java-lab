@@ -27,7 +27,8 @@ public class ArmstrongRange {
         int digit = String.valueOf(num).length();
 
         while (temp > 0) {
-            sum += Math.pow(temp % 10, digit);
+            int rem = temp % 10;
+            sum += Math.pow(rem, digit);
             temp /= 10;
         }
 
