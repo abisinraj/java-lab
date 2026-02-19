@@ -1,3 +1,6 @@
+
+//program10
+//write a java program to remove the vowels from a string
 import java.util.Scanner;
 
 public class RemoveVowels {
