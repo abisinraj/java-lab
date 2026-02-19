@@ -1,6 +1,6 @@
 
 //program6
-//write a java program to print all the elements of an array
+//write a java program to find the smallest, largest and second largest element of an array
 import java.util.Scanner;
 
 public class ArrayElements {
