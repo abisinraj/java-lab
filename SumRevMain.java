@@ -1,3 +1,6 @@
+
+//program8
+//write a java program to calculate the sum of digits and reverse a number
 import java.util.Scanner;
 
 class SumRev {
