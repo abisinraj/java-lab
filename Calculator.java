@@ -1,4 +1,4 @@
-//program1
+//program2
 //write a java program to perform basic arithmetic operations on two integers
 //
 
