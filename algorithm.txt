@@ -22,3 +22,4 @@ Algorithm for ArrayElements.java:
 Step 1: Start the program.
 Step 2: Initialize an array with given elements.
 Step 3: Loop through the array from start to end.
+Step 4: Print each element.
