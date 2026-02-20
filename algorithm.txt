@@ -47,3 +47,4 @@ Algorithm for CountObjects.java:
 Step 1: Start the program.
 Step 2: Initialize a static count variable to 0.
 Step 3: Increment the count in the constructor.
+Step 4: Create multiple objects.
