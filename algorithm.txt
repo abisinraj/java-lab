@@ -26,3 +26,4 @@ Step 4: Print each element.
 Step 5: End the program.
 
 Algorithm for Calculator.java:
+Step 1: Start the program.
