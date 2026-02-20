@@ -52,3 +52,4 @@ Step 5: Print the count value.
 Step 6: End the program.
 
 Algorithm for DistanceCalculator.java:
+Step 1: Start the program.
