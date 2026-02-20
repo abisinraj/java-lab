@@ -16,3 +16,8 @@ Step 3: Use a switch case or if-else to perform the corresponding operation.
 Step 4: Display the result of the operation.
 Step 5: Handle any invalid operators if necessary.
 Step 6: Stop
+
+Program No. 3: Fibonacci.java
+Step 1: Start
+Step 2: Input the limit (n) until which the series should be printed.
+Step 3: Initialize first=0 and second=1.
