@@ -56,3 +56,8 @@ Step 3: Calculate the trace (sum of diagonal elements).
 Step 4: Calculate the transpose (swap rows and columns: T[j][i] = M[i][j]).
 Step 5: Output the trace and the transposed matrix.
 Step 6: Stop
+
+Program No. 8: SumRevMain.java
+Step 1: Start
+Step 2: Input a number.
+Step 3: While number > 0, extract digits, add to sum, and build reverse.
