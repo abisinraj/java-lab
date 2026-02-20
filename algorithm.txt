@@ -96,3 +96,8 @@ Step 3: Sum the real parts together.
 Step 4: Sum the imaginary parts together.
 Step 5: Output the result as a complex number (a + bi).
 Step 6: Stop
+
+Program No. 13: CountObjects.java
+Step 1: Start
+Step 2: Define a static counter variable in the class.
+Step 3: Increment the counter inside the constructor.
