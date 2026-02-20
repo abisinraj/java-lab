@@ -55,3 +55,4 @@ Algorithm for DistanceCalculator.java:
 Step 1: Start the program.
 Step 2: Read coordinates of two points (x1, y1) and (x2, y2).
 Step 3: Calculate the difference in x and y coordinates.
+Step 4: Square the differences.
