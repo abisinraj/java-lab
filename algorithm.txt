@@ -103,3 +103,8 @@ Step 15: Conclude operations safely.
 Algorithm for DistanceCalculator.java:
 Step 1: Start the program for DistanceCalculator.java.
 Step 2: Declare requirements for DistanceCalculator.java.
+Step 3: Check if input arguments are provided properly.
+Step 4: If arguments are missing, alert the user about DistanceCalculator.java.
+Step 5: Load necessary standard libraries.
+Step 6: Initialize scanners or readers.
+Step 7: Accept variables needed for logic.
