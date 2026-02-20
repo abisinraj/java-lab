@@ -36,3 +36,8 @@ Step 6: Stop
 Program No. 5: Triangle.java
 Step 1: Start
 Step 2: Input three side lengths a, b, and c.
+Step 3: Verify if they form a triangle (a+b>c, a+c>b, b+c>a).
+Step 4: Check if all sides are equal (Equilateral), two are equal (Isosceles), or none (Scalene).
+Step 5: Output the type of triangle.
+Step 6: Stop
+
