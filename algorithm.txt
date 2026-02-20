@@ -59,3 +59,4 @@ Step 4: Square the differences.
 Step 5: Add the squared differences.
 Step 6: Take the square root of the sum to get the distance.
 Step 7: Print distance.
+Step 8: End the program.
