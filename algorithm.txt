@@ -193,3 +193,8 @@ Step 4: If arguments are missing, alert the user about StudentResult.java.
 Step 5: Load necessary standard libraries.
 Step 6: Initialize scanners or readers.
 Step 7: Accept variables needed for logic.
+Step 8: Perform input validation loops.
+Step 9: Process core algorithms or loop conditions.
+Step 10: Store values into variables correctly.
+Step 11: Implement conditional checks to verify answers.
+Step 12: Organize the final output format.
