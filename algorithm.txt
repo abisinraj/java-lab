@@ -7,3 +7,4 @@ Step 4: Convert strings to character arrays.
 Step 5: Sort both character arrays.
 Step 6: Compare the sorted arrays.
 Step 7: If they match, print 'Anagrams', else print 'Not anagrams'.
+Step 8: End the program.
