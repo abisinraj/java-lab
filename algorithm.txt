@@ -203,3 +203,8 @@ Step 14: Display final output to console.
 Step 15: Conclude operations safely.
 
 Algorithm for SumRevMain.java:
+Step 1: Start the program for SumRevMain.java.
+Step 2: Declare requirements for SumRevMain.java.
+Step 3: Check if input arguments are provided properly.
+Step 4: If arguments are missing, alert the user about SumRevMain.java.
+Step 5: Load necessary standard libraries.
