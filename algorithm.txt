@@ -33,3 +33,4 @@ Step 4: Perform subtraction if operator is '-'.
 Step 5: Perform multiplication if operator is '*'.
 Step 6: Perform division if operator is '/'.
 Step 7: Print the result.
+Step 8: End the program.
