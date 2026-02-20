@@ -28,3 +28,4 @@ Step 5: End the program.
 Algorithm for Calculator.java:
 Step 1: Start the program.
 Step 2: Read two operands and an operator.
+Step 3: Perform addition if operator is '+'.
