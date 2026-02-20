@@ -57,3 +57,4 @@ Step 2: Read coordinates of two points (x1, y1) and (x2, y2).
 Step 3: Calculate the difference in x and y coordinates.
 Step 4: Square the differences.
 Step 5: Add the squared differences.
+Step 6: Take the square root of the sum to get the distance.
