@@ -10,3 +10,4 @@ Step 7: If they match, print 'Anagrams', else print 'Not anagrams'.
 Step 8: End the program.
 
 Algorithm for ArmstrongRange.java:
+Step 1: Start the program.
