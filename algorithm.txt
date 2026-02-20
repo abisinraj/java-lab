@@ -81,3 +81,8 @@ Step 4: Reconstruct the string by excluding vowels.
 Step 5: Output the new string.
 Step 6: Stop
 
+Program No. 11: StudentResult.java
+Step 1: Start
+Step 2: Create classes to store student details and marks.
+Step 3: Input marks for various subjects.
+Step 4: Calculate the total and average of those marks.
