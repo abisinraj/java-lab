@@ -11,3 +11,8 @@ Step 6: Stop
 
 Program No. 2: Calculator.java
 Step 1: Start
+Step 2: Input two numbers and an operator (+, -, *, /).
+Step 3: Use a switch case or if-else to perform the corresponding operation.
+Step 4: Display the result of the operation.
+Step 5: Handle any invalid operators if necessary.
+Step 6: Stop
