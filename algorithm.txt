@@ -49,3 +49,4 @@ Step 2: Initialize a static count variable to 0.
 Step 3: Increment the count in the constructor.
 Step 4: Create multiple objects.
 Step 5: Print the count value.
+Step 6: End the program.
