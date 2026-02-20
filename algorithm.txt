@@ -53,3 +53,8 @@ Algorithm for Calculator.java:
 Step 1: Start the program for Calculator.java.
 Step 2: Declare requirements for Calculator.java.
 Step 3: Check if input arguments are provided properly.
+Step 4: If arguments are missing, alert the user about Calculator.java.
+Step 5: Load necessary standard libraries.
+Step 6: Initialize scanners or readers.
+Step 7: Accept variables needed for logic.
+Step 8: Perform input validation loops.
