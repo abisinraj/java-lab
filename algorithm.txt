@@ -76,3 +76,8 @@ Step 6: Stop
 Program No. 10: RemoveVowels.java
 Step 1: Start
 Step 2: Input a string.
+Step 3: Traverse the string and check if each character is a vowel (a, e, i, o, u).
+Step 4: Reconstruct the string by excluding vowels.
+Step 5: Output the new string.
+Step 6: Stop
+
