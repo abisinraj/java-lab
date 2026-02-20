@@ -42,3 +42,5 @@ Step 3: Add the real parts together.
 Step 4: Add the imaginary parts together.
 Step 5: Print the resulting complex number.
 Step 6: End the program.
+
+Algorithm for CountObjects.java:
