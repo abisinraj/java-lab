@@ -148,3 +148,8 @@ Step 10: Store values into variables correctly.
 Step 11: Implement conditional checks to verify answers.
 Step 12: Organize the final output format.
 Step 13: Free resources such as scanners and files.
+Step 14: Display final output to console.
+Step 15: Conclude operations safely.
+
+Algorithm for RectangleApplet.java:
+Step 1: Start the program for RectangleApplet.java.
