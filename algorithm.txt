@@ -88,3 +88,8 @@ Step 1: Start the program for CountObjects.java.
 Step 2: Declare requirements for CountObjects.java.
 Step 3: Check if input arguments are provided properly.
 Step 4: If arguments are missing, alert the user about CountObjects.java.
+Step 5: Load necessary standard libraries.
+Step 6: Initialize scanners or readers.
+Step 7: Accept variables needed for logic.
+Step 8: Perform input validation loops.
+Step 9: Process core algorithms or loop conditions.
