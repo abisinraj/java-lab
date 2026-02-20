@@ -6,3 +6,8 @@ Step 1: Start
 Step 2: Input coordinates (x1, y1) and (x2, y2).
 Step 3: Calculate dx = x2 - x1 and dy = y2 - y1.
 Step 4: Calculate distance = sqrt(dx^2 + dy^2).
+Step 5: Output the distance.
+Step 6: Stop
+
+Program No. 2: Calculator.java
+Step 1: Start
