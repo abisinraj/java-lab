@@ -213,3 +213,8 @@ Step 7: Accept variables needed for logic.
 Step 8: Perform input validation loops.
 Step 9: Process core algorithms or loop conditions.
 Step 10: Store values into variables correctly.
+Step 11: Implement conditional checks to verify answers.
+Step 12: Organize the final output format.
+Step 13: Free resources such as scanners and files.
+Step 14: Display final output to console.
+Step 15: Conclude operations safely.
