@@ -19,3 +19,4 @@ Step 6: Continue until the upper bound is reached.
 Step 7: End the program.
 
 Algorithm for ArrayElements.java:
+Step 1: Start the program.
