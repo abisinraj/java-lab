@@ -18,3 +18,8 @@ Step 15: Conclude operations safely.
 Algorithm for ArmstrongRange.java:
 Step 1: Start the program for ArmstrongRange.java.
 Step 2: Declare requirements for ArmstrongRange.java.
+Step 3: Check if input arguments are provided properly.
+Step 4: If arguments are missing, alert the user about ArmstrongRange.java.
+Step 5: Load necessary standard libraries.
+Step 6: Initialize scanners or readers.
+Step 7: Accept variables needed for logic.
