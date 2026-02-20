@@ -86,3 +86,8 @@ Step 1: Start
 Step 2: Create classes to store student details and marks.
 Step 3: Input marks for various subjects.
 Step 4: Calculate the total and average of those marks.
+Step 5: Display the formatted student results.
+Step 6: Stop
+
+Program No. 12: ComplexSum.java
+Step 1: Start
