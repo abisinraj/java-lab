@@ -38,3 +38,4 @@ Step 8: End the program.
 Algorithm for ComplexSum.java:
 Step 1: Start the program.
 Step 2: Read real and imaginary parts of two complex numbers.
+Step 3: Add the real parts together.
