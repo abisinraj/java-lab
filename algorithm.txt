@@ -71,3 +71,8 @@ Step 2: Input two strings.
 Step 3: Convert strings to lowercase and sort their characters.
 Step 4: Compare sorted strings for equality.
 Step 5: If equal, print 'Anagram', else print 'Not an Anagram'.
+Step 6: Stop
+
+Program No. 10: RemoveVowels.java
+Step 1: Start
+Step 2: Input a string.
