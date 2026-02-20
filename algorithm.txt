@@ -168,3 +168,8 @@ Step 13: Free resources such as scanners and files.
 Step 14: Display final output to console.
 Step 15: Conclude operations safely.
 
+Algorithm for RemoveVowels.java:
+Step 1: Start the program for RemoveVowels.java.
+Step 2: Declare requirements for RemoveVowels.java.
+Step 3: Check if input arguments are provided properly.
+Step 4: If arguments are missing, alert the user about RemoveVowels.java.
