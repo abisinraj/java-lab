@@ -12,3 +12,4 @@ Step 8: End the program.
 Algorithm for ArmstrongRange.java:
 Step 1: Start the program.
 Step 2: Read the upper and lower bounds for the range.
+Step 3: Loop from lower bound to upper bound.
