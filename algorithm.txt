@@ -53,3 +53,4 @@ Step 6: End the program.
 
 Algorithm for DistanceCalculator.java:
 Step 1: Start the program.
+Step 2: Read coordinates of two points (x1, y1) and (x2, y2).
