@@ -21,3 +21,8 @@ Program No. 3: Fibonacci.java
 Step 1: Start
 Step 2: Input the limit (n) until which the series should be printed.
 Step 3: Initialize first=0 and second=1.
+Step 4: Loop from 1 to n, printing the current term.
+Step 5: Calculate next = first + second, then update first and second.
+Step 6: Stop
+
+Program No. 4: ArmstrongRange.java
