@@ -2,3 +2,4 @@
 Algorithm for AnagramCheck.java:
 Step 1: Start the program.
 Step 2: Read two strings from the user.
+Step 3: If their lengths are not equal, print 'Not anagrams' and exit.
