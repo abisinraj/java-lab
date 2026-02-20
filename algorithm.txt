@@ -32,3 +32,4 @@ Step 3: Perform addition if operator is '+'.
 Step 4: Perform subtraction if operator is '-'.
 Step 5: Perform multiplication if operator is '*'.
 Step 6: Perform division if operator is '/'.
+Step 7: Print the result.
