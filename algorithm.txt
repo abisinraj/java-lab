@@ -36,3 +36,4 @@ Step 7: Print the result.
 Step 8: End the program.
 
 Algorithm for ComplexSum.java:
+Step 1: Start the program.
