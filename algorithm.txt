@@ -31,3 +31,8 @@ Step 2: Input the lower and upper bounds of a range.
 Step 3: For each number in the range, calculate the sum of the cubes of its digits.
 Step 4: Compare the sum to the original number.
 Step 5: If equal, print the number (it's an Armstrong number).
+Step 6: Stop
+
+Program No. 5: Triangle.java
+Step 1: Start
+Step 2: Input three side lengths a, b, and c.
