@@ -101,3 +101,8 @@ Program No. 13: CountObjects.java
 Step 1: Start
 Step 2: Define a static counter variable in the class.
 Step 3: Increment the counter inside the constructor.
+Step 4: Create some objects using the constructor.
+Step 5: Output the value of the static counter.
+Step 6: Stop
+
+Program No. 14: RectangleApplet.java
