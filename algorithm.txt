@@ -24,3 +24,5 @@ Step 2: Initialize an array with given elements.
 Step 3: Loop through the array from start to end.
 Step 4: Print each element.
 Step 5: End the program.
+
+Algorithm for Calculator.java:
