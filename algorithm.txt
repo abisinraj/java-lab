@@ -16,3 +16,4 @@ Step 3: Loop from lower bound to upper bound.
 Step 4: For each number, calculate the sum of the cubes of its digits.
 Step 5: If the sum equals the number itself, print the number.
 Step 6: Continue until the upper bound is reached.
+Step 7: End the program.
