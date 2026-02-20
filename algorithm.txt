@@ -44,3 +44,4 @@ Step 5: Print the resulting complex number.
 Step 6: End the program.
 
 Algorithm for CountObjects.java:
+Step 1: Start the program.
