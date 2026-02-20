@@ -46,3 +46,8 @@ Step 1: Start
 Step 2: Input the elements into an array.
 Step 3: Sort the array in ascending or descending order.
 Step 4: Identify the smallest (first element) and largest (last element).
+Step 5: Identify the second largest (second to last element).
+Step 6: Stop
+
+Program No. 7: MatrixTraceTranspose.java
+Step 1: Start
