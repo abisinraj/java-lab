@@ -30,3 +30,4 @@ Step 1: Start the program.
 Step 2: Read two operands and an operator.
 Step 3: Perform addition if operator is '+'.
 Step 4: Perform subtraction if operator is '-'.
+Step 5: Perform multiplication if operator is '*'.
