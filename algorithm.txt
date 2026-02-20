@@ -41,3 +41,8 @@ Step 4: Check if all sides are equal (Equilateral), two are equal (Isosceles), o
 Step 5: Output the type of triangle.
 Step 6: Stop
 
+Program No. 6: ArrayElements.java
+Step 1: Start
+Step 2: Input the elements into an array.
+Step 3: Sort the array in ascending or descending order.
+Step 4: Identify the smallest (first element) and largest (last element).
