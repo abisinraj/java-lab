@@ -133,3 +133,8 @@ Step 12: Organize the final output format.
 Step 13: Free resources such as scanners and files.
 Step 14: Display final output to console.
 Step 15: Conclude operations safely.
+
+Algorithm for MatrixTraceTranspose.java:
+Step 1: Start the program for MatrixTraceTranspose.java.
+Step 2: Declare requirements for MatrixTraceTranspose.java.
+Step 3: Check if input arguments are provided properly.
