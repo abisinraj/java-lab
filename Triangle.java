@@ -33,3 +33,4 @@ public class Triangle {
         sc.close();
     }
 }
+/* Sample Output:
