@@ -38,4 +38,22 @@ public class ArmstrongRange {
         return sum == num;
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter the starting number: 1
+ * Enter the ending number: 500
+ * Armstrong numbers between 1 and 500 are:
+ * 1
+ * 2
+ * 3
+ * 4
+ * 5
+ * 6
+ * 7
+ * 8
+ * 9
+ * 153
+ * 370
+ * 371
+ * 407
+ */
