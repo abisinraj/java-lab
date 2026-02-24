@@ -36,4 +36,4 @@ public class AnagramCheck {
         sc.close();
     }
 }
-/* Sample Output:
+/* Sample Output
