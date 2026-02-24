@@ -42,3 +42,4 @@ public class SumRevMain {
         sc.close();
     }
 }
+/* Sample Output:
