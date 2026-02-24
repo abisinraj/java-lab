@@ -42,4 +42,9 @@ public class SumRevMain {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter any number: 123
+ * Sum of digits = 6
+ * Reverse: 321
+ */
