@@ -36,4 +36,9 @@ public class AnagramCheck {
         sc.close();
     }
 }
-/* Sample Output
+/*
+ * Sample Output:
+ * Enter first string: listen
+ * Enter second string: silent
+ * String are Anagram
+ */
