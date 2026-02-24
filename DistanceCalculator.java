@@ -26,3 +26,4 @@ public class DistanceCalculator {
         sc.close();
     }
 }
+/* Sample Output:
