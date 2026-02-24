@@ -26,4 +26,11 @@ public class DistanceCalculator {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter x1: 0
+ * Enter y1: 0
+ * Enter x2: 3
+ * Enter y2: 4
+ * Distance between points: 5.0
+ */
