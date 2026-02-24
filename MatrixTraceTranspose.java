@@ -63,3 +63,4 @@ public class MatrixTraceTranspose {
         sc.close();
     }
 }
+/* Sample Output:
