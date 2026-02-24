@@ -36,4 +36,12 @@ public class Calculator {
     }
 }
 
-/* Sample Output:
+/*
+ * Sample Output:
+ * java Calculator 10 3
+ * Sum = 13
+ * Difference = 7
+ * Product = 30
+ * Quotient = 3
+ * Remainder = 1
+ */
