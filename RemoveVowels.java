@@ -18,3 +18,4 @@ public class RemoveVowels {
         scan.close();
     }
 }
+/* Sample Output:
