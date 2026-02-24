@@ -24,3 +24,5 @@ public class Fibonacci {
         scan.close();
     }
 }
+
+/* Sample Output:
