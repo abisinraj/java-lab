@@ -49,4 +49,14 @@ public class StudentResult {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Name: Abisin
+ * Roll No.: 101
+ * Enter 5 subject marks:
+ * 80 85 90 95 100
+ * Name: Abisin
+ * Roll No.: 101
+ * Total = 450
+ * Average = 90.0
+ */
