@@ -31,3 +31,4 @@ public class RectangleApplet extends Applet {
         g.fillRect(x, y, w, h);
     }
 }
+/* Sample Output:
