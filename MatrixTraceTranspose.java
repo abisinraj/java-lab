@@ -63,4 +63,21 @@ public class MatrixTraceTranspose {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter number of rows: 2
+ * Enter number of columns: 2
+ * Enter matrix elements:
+ * 1 2
+ * 3 4
+ * 
+ * Original Matrix:
+ * 1 2
+ * 3 4
+ * 
+ * Transpose of Matrix:
+ * 1 3
+ * 2 4
+ * 
+ * Trace of Matrix = 5
+ */
