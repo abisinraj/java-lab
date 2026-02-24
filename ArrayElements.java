@@ -33,4 +33,10 @@ public class ArrayElements {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter 10 elements: 10 20 5 15 40 35 50 45 60 55
+ * Smallest element = 5
+ * Largest element = 60
+ * Second largest element = 55
+ */
