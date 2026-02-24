@@ -49,3 +49,4 @@ public class StudentResult {
         sc.close();
     }
 }
+/* Sample Output:
