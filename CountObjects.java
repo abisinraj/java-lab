@@ -17,4 +17,7 @@ public class CountObjects {
         System.out.println("Number of objects: " + CountObjects.count);
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Number of objects: 5
+ */
