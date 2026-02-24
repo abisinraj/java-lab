@@ -18,4 +18,8 @@ public class RemoveVowels {
         scan.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter a string: Hello World
+ * Hll Wrld
+ */
