@@ -49,4 +49,13 @@ public class ComplexSum {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter real part of 1st complex number: 2.5
+ * Enter imaginary part of 1st complex number: 3.5
+ * Enter real part of second complex number: 1.5
+ * Enter imaginary part of 2nd complex number: 2.5
+ * Complex number 1: 2.5 + 3.5i
+ * Complex number 2: 1.5 + 2.5i
+ * Sum of complex numbers: 4.0 + 6.0i
+ */
