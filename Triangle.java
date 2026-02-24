@@ -33,4 +33,9 @@ public class Triangle {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter 3 sides: 3 4 5
+ * Scalene triangle
+ * Area of triangle is = 6.0
+ */
