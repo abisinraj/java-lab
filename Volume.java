@@ -56,4 +56,11 @@ public class Volume {
         sc.close();
     }
 }
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter radius of sphere: 5
+ * Volume of Sphere = 523.5983333333332
+ * Enter radius of cylinder: 5
+ * Enter height of cylinder: 10
+ * Volume of Cylinder = 785.3975
+ */
