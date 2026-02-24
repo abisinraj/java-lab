@@ -25,4 +25,9 @@ public class Fibonacci {
     }
 }
 
-/* Sample Output:
+/*
+ * Sample Output:
+ * Enter the limit: 10
+ * Fibonacci series upto 10:
+ * 0, 1, 1, 2, 3, 5, 8,
+ */
