@@ -38,3 +38,4 @@ public class ArmstrongRange {
         return sum == num;
     }
 }
+/* Sample Output:
