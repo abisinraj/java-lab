@@ -56,3 +56,4 @@ public class Volume {
         sc.close();
     }
 }
+/* Sample Output:
