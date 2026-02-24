@@ -33,3 +33,4 @@ public class ArrayElements {
         sc.close();
     }
 }
+/* Sample Output:
